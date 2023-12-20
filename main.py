@@ -2,6 +2,7 @@
 # Date: 4/4/2023
 # Description: This is a Flask App that uses SQLite3 to
 # execute (C)reate, (R)ead, (U)pdate, (D)elete operations
+# https://youtu.be/m9hUC-WRclU?si=QZ2PMMJN1D-VgBsM
 
 from flask import Flask
 from flask import render_template
